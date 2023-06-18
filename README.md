@@ -16,10 +16,14 @@ Scroll Snapping;
 Events;
 LocalStorage;
 Intersection Observer;
+
+
 ✅ ToDo Refactor CSS (Maybe add SASS).
 ⚙ Dev Setup (VS Code)Clone the project.
 Open the folder with Visual Studio Code.
 Install Live Preview extension.
 Right click index.html > Live Preview: Show Preview.
 Open the localhost:3000 address in your favorite browser.
+
+
 Made by Vansh Bhargava🙂
